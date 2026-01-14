@@ -6,7 +6,7 @@ public enum ErrorCode {
     EMPTY_LOGO(2, "Merchant Logo is empty"),
     EMPTY_BUSINESS_LICENSE(3, "Merchant license is empty"),
     ERROR_PHONE(4, "Wrong merchant phone number"),
-    EMPTY_ADDRESS(5, "Wrong merhcant address"),
+    EMPTY_ADDRESS(5, "Wrong merchant address"),
     MERCHANT_NOT_EXIST(6, "Merchant is not existing");
 
 
